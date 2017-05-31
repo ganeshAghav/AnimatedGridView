@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="define_AnimatedGridView"></string>
+    <string name="library_AnimatedGridView_author">Mike Penz</string>
+    <string name="library_AnimatedGridView_authorWebsite">http://mikepenz.com/</string>
+    <string name="library_AnimatedGridView_libraryName">AnimatedGridView</string>
+    <string name="library_AnimatedGridView_libraryDescription">AnimatedGridView extends the default GridView and adds some new functions to animate the deletion
+        of rows. You just have to choose the AnimatedGridView and extend the AnimatedAdapter (which extends the BaseAdapter).
+        \n\n
+        This library also adds a HeaderGridView, like the normal ListView. The HeaderGridView is from the Google Source Code of their gallery app.
+    </string>
+    <string name="library_AnimatedGridView_libraryVersion">1.1.3</string>
+    <string name="library_AnimatedGridView_libraryWebsite">https://github.com/mikepenz/AnimatedGridView/</string>
+    <string name="library_AnimatedGridView_licenseId">apache_2_0</string>
+    <string name="library_AnimatedGridView_isOpenSource">true</string>
+    <string name="library_AnimatedGridView_repositoryLink">https://github.com/mikepenz/AnimatedGridView</string>
+</resources>
